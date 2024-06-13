@@ -17,7 +17,7 @@
   publish = "public/"
 
   # Default build command.
-  command = "gatsby build"
+  command = "yarn self-update && gatsby build"
 
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
