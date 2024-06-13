@@ -17,7 +17,7 @@
   publish = "public/"
 
   # Default build command.
-  command = "yarn self-update && gatsby build"
+  command = "npm run build"
 
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
@@ -32,7 +32,7 @@
 # values to keep them out of your source repository.
 [context.production]
   publish = "public/"
-  command = "gatsby build"
+  command = "npm run build"
   environment = { NODE_VERSION = "14.16.0" }
 
 # Deploy Preview context: all deploys generated from
