@@ -1,6 +1,6 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
+title: 'Lead EngineeEEr'
 company: 'Upstatement'
 location: 'Boston, MA'
 range: 'May 2018 - Present'

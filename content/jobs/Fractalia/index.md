@@ -1,7 +1,7 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+date: '2022-05-27'
+title: 'NOC Analyst B2B'
+company: 'Fractalia'
 location: 'Boston, MA'
 range: 'July - December 2015'
 url: 'https://us.mullenlowe.com/'
