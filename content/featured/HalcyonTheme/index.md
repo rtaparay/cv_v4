@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Halcyon Theme'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
