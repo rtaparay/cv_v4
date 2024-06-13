@@ -13,8 +13,8 @@
 # context: all deploys from the branch
 #################################################################
 
-[context.production]
-  publish = "public/prd/"
+[context.prd]
+  publish = "public/"
   command = "npm run build"
   environment = { NODE_VERSION = "14.16.0" }
 
