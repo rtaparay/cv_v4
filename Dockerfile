@@ -16,5 +16,5 @@ EXPOSE 8000 9000
 
 RUN yarn global add gatsby-cli@4.25.0 && yarn cache clean
 
-WORKDIR /workspace
+WORKDIR /public
 CMD ["gatsby", "develop", "-H", "0.0.0.0" ]
