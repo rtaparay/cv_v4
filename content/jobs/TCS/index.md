@@ -1,10 +1,10 @@
 ---
-date: '2024-09-27'
-title: 'Cloud Engineer Administrator'
-company: 'TCS'
-location: 'San Borja'
-range: 'Setiembre 2024 - Actualidad'
-url: 'https://www.apple.com/music/'
+date: "2024-09-27"
+title: "Cloud Engineer Administrator"
+company: "TCS"
+location: "San Borja"
+range: "Setiembre 2024 - Julio 2024"
+url: "https://www.tcs.com"
 ---
 
 - Asignado para el Proyecto Interbank, responsable de la administración y gestión eficiente de recursos en entornos de nube, con experiencia en plataformas como AWS, Azure, Oracle. Destacado por la capacidad de manejar múltiples tareas, incluyendo:
