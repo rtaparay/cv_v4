@@ -13,7 +13,9 @@
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
-   nvm install
+   nvm current    # Display active version
+   nvm install 14.16.0     # The version can be a specific version
+   nvm use 14.16.0
    ```
 
 3. Install dependencies

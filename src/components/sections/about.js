@@ -36,7 +36,7 @@ const StyledText = styled.div`
       font-size: var(--fz-xs);
 
       &:before {
-        content: '▹';
+        content: "▹";
         position: absolute;
         left: 0;
         color: var(--green);
@@ -88,7 +88,7 @@ const StyledPic = styled.div`
 
     &:before,
     &:after {
-      content: '';
+      content: "";
       display: block;
       position: absolute;
       width: 100%;
@@ -144,11 +144,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              ¡Hola! Mi nombre es Raúl y disfruto optimizando y gestionando infraestructuras en la
-              nube. Mi interés por la computación en la nube comenzó en 2021, cuando decidí explorar
-              la creación de soluciones personalizadas en la nube. Empezar a optimizar pequeñas
-              aplicaciones me enseñó mucho sobre la escalabilidad, la seguridad y la eficiencia de
-              los servicios en la nube.
+              ¡Hola! Mi nombre es Raúl y disfruto optimizando y gestionando
+              infraestructuras en la nube. Mi interés por la computación en la
+              nube comenzó en 2021, cuando decidí explorar la creación de
+              soluciones personalizadas en la nube. Empezar a optimizar pequeñas
+              aplicaciones me enseñó mucho sobre la escalabilidad, la seguridad
+              y la eficiencia de los servicios en la nube.
             </p>
 
             {/* <p>
@@ -163,18 +164,20 @@ const About = () => {
             </p> */}
 
             <p>
-              yo también recientemente{' '}
-              <a href="https://learn.microsoft.com/es-es/users/rtaparay/">
-                me certifique en cloud como Azure
+              También en el año 2022{' '}
+              <a href="https://www.credly.com/users/rtaparay/">
+                me certifique en cloud como AWS
               </a>{' '}
-              Mi experiencia abarca todo lo necesario para construir aplicaciones en la nube
-              utilizando una variedad de APIs y tecnologías. He trabajado en proyectos DevOps, en la
-              creación de pipelines de CI/CD, y en la implementación de servicios de monitorización
-              y alertas.
+              Mi experiencia abarca todo lo necesario para construir
+              aplicaciones en la nube utilizando una variedad de APIs y
+              tecnologías. He trabajado en proyectos DevOps, en la creación de
+              pipelines de CI/CD, y en la implementación de servicios de
+              monitorización y alertas.
             </p>
 
             <p>
-              Estas son algunas de las tecnologías con las que he estado trabajando recientemente:
+              Estas son algunas de las tecnologías con las que he estado
+              trabajando recientemente:
             </p>
           </div>
 
